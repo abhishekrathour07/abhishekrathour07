@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">A Upcoming Software Engineer from India</h3>
-<img align="center" alt="coding" width="500" src="https://camo.githubusercontent.com/b2b688db1f6826e136cc51b97070deea8af15747acb3bf0b9e209afd4a313374/68747470733a2f2f70687973696373677572756b756c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f6368617261637465722d312e676966">
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" align = "center" height = '500px'>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekrathour07&label=Profile%20viewhttps://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gifs&color=0e75b6&style=flat" alt="abhishekrathour07" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekrathour07&label=Profile%20view&color=0e75b6&style=flat" alt="abhishekrathour07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekrathour07" alt="abhishekrathour07" /></a> </p>
 
