@@ -7,7 +7,7 @@
 
 ---
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=abhishekrathour07&label=Profile%20Views&color=brightgreen&style=plastic" alt="Profile Views"/>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekrathour07&theme=onedark&row=1" alt="GitHub Trophy" /></a>
 </p>
