@@ -18,7 +18,7 @@
 
 ---
 
-- 🌱 **Currently Learning**: **Next.js**, **express**, and **React.js**  
+- 🌱 **Currently Learning**: **JavaScript**, **Node.js**, and **React**  
 - 💬 **Ask Me About**: Coding, Debugging, and Development Strategies  
 - 📫 **How to Reach Me**: **[singhrathourabhishek7@gmail.com](mailto:singhrathourabhishek7@gmail.com)**  
 
@@ -59,7 +59,7 @@
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour07&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" onerror="this.src='https://i.imgur.com/U5YAXzD.png';" style="margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour07&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;"/>
 </div>
 
@@ -67,7 +67,7 @@
 
 <h3 align="center">🔥 Contribution Activity 🔥</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekrathour07&theme=react-dark" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekrathour07&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </div>
 
 ---
