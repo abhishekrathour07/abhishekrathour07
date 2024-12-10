@@ -1,20 +1,24 @@
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">Aspiring Software Engineer | Passionate Developer from India</h3>
 
-<div align="center ">
-  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding GIF" height="400px" borderRadius ="8px"/>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding GIF" height="400px" style="border-radius: 8px;"/>
 </div>
 
 ---
 
-<p >
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekrathour07&label=Profile%20Views&color=brightgreen&style=plastic" alt="Profile Views"/><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekrathour07&theme=onedark&row=1" alt="GitHub Trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekrathour07&theme=onedark&row=1" alt="GitHub Trophy"/></a>
 </p>
 
 ---
 
-- 🌱 **Currently Learning**: **JavaScript**, **Node.js**, and **React**  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%26+building+projects.;Feel+free+to+explore+my+work!)](https://git.io/typing-svg)
+
+---
+
+- 🌱 **Currently Learning**: **Next.js**, **express**, and **React.js**  
 - 💬 **Ask Me About**: Coding, Debugging, and Development Strategies  
 - 📫 **How to Reach Me**: **[singhrathourabhishek7@gmail.com](mailto:singhrathourabhishek7@gmail.com)**  
 
@@ -53,10 +57,17 @@
 ---
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour07&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour07&layout=compact&theme=radical" alt="Top Languages"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour07&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" onerror="this.src='https://i.imgur.com/U5YAXzD.png';" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour07&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;"/>
+</div>
+
+---
+
+<h3 align="center">🔥 Contribution Activity 🔥</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abhishekrathour07&theme=react-dark" alt="Activity Graph"/>
 </div>
 
 ---
