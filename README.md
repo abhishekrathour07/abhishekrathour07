@@ -38,6 +38,32 @@
 </p>
 
 ---
+<h3 align="center">🚀 Featured Projects 🚀</h3>
+
+<div align="center">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap;">
+    <!-- Quick Meal -->
+    <div style="background: #FF6347; padding: 15px; margin: 10px; border-radius: 8px; width: 250px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      <h3 style="color: #fff;">🍽️ Quick Meal</h3>
+      <p style="color: #fff;">A sleek food delivery app using Context API, React, Tailwind CSS, and TypeScript.</p>
+      <a href="https://github.com/abhishekrathour07/quickmeal" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
+    </div>
+    <!-- Echozy -->
+    <div style="background: #4682B4; padding: 15px; margin: 10px; border-radius: 8px; width: 250px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      <h3 style="color: #fff;">🔊 Echozy</h3>
+      <p style="color: #fff;">An AI-powered chatting website for seamless interaction and productivity.</p>
+      <a href="https://github.com/abhishekrathour07/echozy" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
+    </div>
+    <!-- Stamper AI -->
+    <div style="background: #32CD32; padding: 15px; margin: 10px; border-radius: 8px; width: 250px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      <h3 style="color: #fff;">🤖 Stamper AI</h3>
+      <p style="color: #fff;">An advanced employee dashboard designed with Next.js, ShadCN UI, and Momentum.</p>
+      <a href="https://github.com/abhishekrathour07/stamper-ai" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
+    </div>
+  </div>
+</div>
+
+---
 
 <h3 align="center">💻 Languages & Tools 💻</h3>
 <p align="center">
@@ -62,13 +88,13 @@
 <h3 align="center">📊 GitHub Stats 📊</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour07&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour07&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;"/>
 </div>
 
 ---
 
-<h3 align="center">🔥 Contribution Activity 🔥</h3>
+<h3 align="center">🔥Developer Calendar 🔥</h3>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekrathour07&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
 </div>
