@@ -102,5 +102,5 @@
 ---
 
 <div align="center">
-  <h3>🔥 Keep Coding and Building Amazing Projects! 🔥</h3>
+  <h3>🔥 Keep Coding and Building Amazing Projects 🔥</h3>
 </div>
