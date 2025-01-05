@@ -89,7 +89,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour07&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour07&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;"/>
 </div>
 
 ---
