@@ -22,7 +22,7 @@
 
 ---
 
-- 🌱 **Currently Learning**: **JavaScript**, **Node.js**, and **React**  
+- 🌱 **Currently Learning**: **Nextjs**, **Node.js**, and **React**  
 - 💬 **Ask Me About**: Coding, Debugging, and Development Strategies  
 - 📫 **How to Reach Me**: **[singhrathourabhishek7@gmail.com](mailto:singhrathourabhishek7@gmail.com)**  
 
