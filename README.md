@@ -1,28 +1,34 @@
-   <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
- <h3 align="center">Aspiring Software Engineer | Passionate Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
+<h3 align="center">Aspiring Software Engineer | Passionate Developer from India</h3>
 
 <div align="center">
   <img 
-   src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="Coding GIF" height="400px" style="border-radius: 8px;"/>
+   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+   alt="Coding GIF" 
+   height="400px" 
+   style="border-radius: 10px;"/>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekrathour07&label=Profile%20Views&color=brightgreen&style=plastic"   alt="Profile Views"/><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekrathour07&theme=onedark&row=1" alt="GitHub Trophy"/></a>
+  <img src="https://komarev.com/ghpvc/?username=abhishekrathour07&label=Profile%20Views&color=brightgreen&style=plastic" alt="Profile Views"/><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abhishekrathour07&theme=onedark&row=1" alt="GitHub Trophy"/>
+  </a>
 </p>
 
 ---
-<div align='center'>   
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%26+building+projects.;Feel+free+to+explore+my+work!)](https://git.io/typing-svg)
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+%26+building+projects.;Feel+free+to+explore+my+work!" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
 
-- 🌱 **Currently Learning**: **Nextjs**, **Node.js**, and **React**  
+- 🌱 **Currently Learning**: **Next.js**, **Node.js**, and **React**  
 - 💬 **Ask Me About**: Coding, Debugging, and Development Strategies  
 - 📫 **How to Reach Me**: **[singhrathourabhishek7@gmail.com](mailto:singhrathourabhishek7@gmail.com)**  
 
@@ -39,6 +45,7 @@
 </p>
 
 ---
+
 <h3 align="center">🚀 Featured Projects 🚀</h3>
 
 <div align="center">
@@ -49,17 +56,17 @@
       <p style="color: #fff;">A sleek food delivery app using Context API, React, Tailwind CSS, and TypeScript.</p>
       <a href="https://github.com/abhishekrathour07/Quick-Meal-website" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
     </div>
-    <!-- Echozy -->
-    <div style="background: #4682B4; padding: 15px; margin: 10px; border-radius: 8px; width: 250px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      <h3 style="color: #fff;">🔊 Echozy</h3>
-      <p style="color: #fff;">An AI-powered chatting website for seamless interaction and productivity.</p>
-      <a href="https://github.com/abhishekrathour07//Echozy-chats" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
+    <!-- Yaario -->
+    <div style="background: #9370DB; padding: 15px; margin: 10px; border-radius: 8px; width: 250px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
+      <h3 style="color: #fff;">👥 Yaario</h3>
+      <p style="color: #fff;">A full-featured social media platform with real-time chat, OTP login, friend requests, and more.</p>
+      <a href="https://github.com/abhishekrathour07/yaario" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
     </div>
     <!-- Stamper AI -->
     <div style="background: #32CD32; padding: 15px; margin: 10px; border-radius: 8px; width: 250px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      <h3 style="color: #fff;"> Stamper AI</h3>
+      <h3 style="color: #fff;">📊 Stamper AI</h3>
       <p style="color: #fff;">An advanced employee dashboard designed with Next.js, ShadCN UI, and Momentum.</p>
-      <a href="https://github.com/sameer2399/stamper " style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
+      <a href="https://github.com/sameer2399/stamper" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
     </div>
   </div>
 </div>
@@ -90,14 +97,14 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abhishekrathour07&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 10px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekrathour07&layout=compact&theme=radical" alt="Top Languages" style="margin: 10px;"/>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekrathour07&theme=radical" alt="GitHub Streak Stats" style="margin: 10px;"/>
 </div>
 
 ---
 
-<h3 align="center">🔥Developer Calendar 🔥</h3>
+<h3 align="center">🔥 Developer Calendar 🔥</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekrathour07&theme=dracula&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekrathour07&theme=dracula&area=true&hide_border=true" width="100%">
 </div>
 
 ---
