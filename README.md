@@ -59,14 +59,14 @@
     <!-- Yaario -->
     <div style="background: #9370DB; padding: 15px; margin: 10px; border-radius: 8px; width: 250px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
       <h3 style="color: #fff;">👥 Yaario</h3>
-      <p style="color: #fff;">A full-featured social media platform with real-time chat, OTP login, friend requests, and more.</p>
-      <a href="https://github.com/abhishekrathour07/yaario" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
+      <p style="color: #fff;">A full-featured social media platform with real-time chat, OTP login, friend requests,friend suggestion saved post, and more.</p>
+     <a href="https://yaario-social-media-frontend.vercel.app/login" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
     </div>
     <!-- Stamper AI -->
     <div style="background: #32CD32; padding: 15px; margin: 10px; border-radius: 8px; width: 250px; box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);">
-      <h3 style="color: #fff;">📊 Stamper AI</h3>
-      <p style="color: #fff;">An advanced employee dashboard designed with Next.js, ShadCN UI, and Momentum.</p>
-      <a href="https://github.com/sameer2399/stamper" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
+      <h3 style="color: #fff;">📊 Job Vista </h3>
+      <p style="color: #fff;">An job platform for both admin and user it have a feature like view apply for job , view all job list and admin cam post and review the applicants etc.</p>
+       <a href="https://job-vista-frontend.vercel.app/login" style="color: #fff; text-decoration: none; background: #000; padding: 5px 10px; border-radius: 5px;">View Project</a>
     </div>
   </div>
 </div>
