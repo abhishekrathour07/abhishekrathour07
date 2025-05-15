@@ -4,7 +4,7 @@
 <div align="center">
   <img 
    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-   alt="Coding GIF" 
+   alt="Coding GIF"     
    height="400px" 
    style="border-radius: 10px;"/>
 </div>
