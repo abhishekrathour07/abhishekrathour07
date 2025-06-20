@@ -48,7 +48,6 @@
   </table>
 </div>
 
----
 
 <h2 align="center">📌 Featured Projects</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
@@ -65,7 +64,6 @@
   </a>
 </div>
 
----
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
@@ -74,16 +72,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekrathour07&theme=github-dark" alt="GitHub Streak" width="65%" style="margin-top: 10px;"/>
 </div>
 
----
 
 <h2 align="center">📆 Developer Activity</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekrathour07&theme=react-dark&area=true&hide_border=true" width="100%"/>
 </div>
 
----
 
 <div align="center">
   <strong>📬 Let's connect & build something great!</strong><br/>
   <a href="mailto:singhrathourabhishek7@gmail.com">📩 singhrathourabhishek7@gmail.com</a>
 </div>
+
