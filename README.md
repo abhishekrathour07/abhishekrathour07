@@ -9,7 +9,7 @@
 
 <h2 align="center">💼 Internship</h2>
 <p align="center">
-  💼 I completed my internship at <strong>Stamper HR</strong> as a Full Stack Developer, where I contributed to building real-world applications using modern web technologies, collaborated with senior developers, and gained hands-on experience in team-based software development practices.
+  💼 I completed my internship at <strong>Stamper HR</strong> as a Frontend Developer, where I contributed to building real-world applications using modern web technologies, collaborated with senior developers, and gained hands-on experience in team-based software development practices.
 </p>
 
 <h2 align="center">🚀 Tech Stack</h2>
