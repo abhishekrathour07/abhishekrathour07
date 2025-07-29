@@ -52,7 +52,7 @@
 <h2 align="center">📌 Featured Projects</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
  <!-- Job Vista -->
-  <a href="https://job-vista-frontend.vercel.app/login" target="_blank">
+  <a href="https://jobvista.viewclub.tech" target="_blank">
     <img src="https://res.cloudinary.com/dkndihxkb/image/upload/v1749504159/jobVista_y7spxp.png" alt="Job Vista" width="350" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);"/>
   </a>
   <!-- Yaario -->
